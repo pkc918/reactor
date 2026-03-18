@@ -1,0 +1,26 @@
+{
+  "name": "skills",
+  "version": "0.0.1",
+  "description": "青椒肉丝's skills",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix ."
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "skills",
+    "rules",
+    "mcp",
+    "cursor",
+    "claude code",
+    "best-practices"
+  ],
+  "author": "https://github.com/pkc918",
+  "license": "Apache-2.0",
+  "packageManager": "pnpm@10.30.3",
+  "devDependencies": {
+    "@antfu/eslint-config": "^7.7.3",
+    "eslint": "^10.0.3"
+  }
+}
