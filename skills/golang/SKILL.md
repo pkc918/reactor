@@ -39,5 +39,5 @@ Covers:
 ### 3. Commands
 Read when the user needs Go build or test commands.
 
-- [go-build](../../commands/go-build.md) — go build, cross-compilation, build tags, ldflags
-- [go-test](../../commands/go-test.md) — go test, coverage, benchmarks, fuzzing
+- [go-build](../../commands/golang/go-build.md) — go build, cross-compilation, build tags, ldflags
+- [go-test](../../commands/golang/go-test.md) — go test, coverage, benchmarks, fuzzing

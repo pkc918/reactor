@@ -13,14 +13,14 @@ Read when asking about branch strategy, rebase vs merge, or PR workflow.
 ### 2. Commands
 Read the relevant command file for specific Git operations:
 
-- [git-commit](../../commands/git-commit.md) — Conventional Commits format and rules
-- [git-branch](../../commands/git-branch.md) — branch management, naming convention
-- [git-rebase](../../commands/git-rebase.md) — rebase workflow, interactive rebase
-- [git-stash](../../commands/git-stash.md) — temporarily save changes
-- [git-undo](../../commands/git-undo.md) — unstage, reset, revert, reflog
-- [git-log](../../commands/git-log.md) — history, diff, blame, status
-- [git-tag](../../commands/git-tag.md) — create, push, delete tags
-- [git-remote](../../commands/git-remote.md) — remote repos, push, pull, fetch
-- [git-conflict](../../commands/git-conflict.md) — resolve merge/rebase conflicts
-- [git-cherry-pick](../../commands/git-cherry-pick.md) — apply commits from other branches
-- [git-clean](../../commands/git-clean.md) — remove untracked files, gc
+- [git-commit](../../commands/git/git-commit.md) — Conventional Commits format and rules
+- [git-branch](../../commands/git/git-branch.md) — branch management, naming convention
+- [git-rebase](../../commands/git/git-rebase.md) — rebase workflow, interactive rebase
+- [git-stash](../../commands/git/git-stash.md) — temporarily save changes
+- [git-undo](../../commands/git/git-undo.md) — unstage, reset, revert, reflog
+- [git-log](../../commands/git/git-log.md) — history, diff, blame, status
+- [git-tag](../../commands/git/git-tag.md) — create, push, delete tags
+- [git-remote](../../commands/git/git-remote.md) — remote repos, push, pull, fetch
+- [git-conflict](../../commands/git/git-conflict.md) — resolve merge/rebase conflicts
+- [git-cherry-pick](../../commands/git/git-cherry-pick.md) — apply commits from other branches
+- [git-clean](../../commands/git/git-clean.md) — remove untracked files, gc
