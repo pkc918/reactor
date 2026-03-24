@@ -16,6 +16,6 @@
         "svn"
     ],
     "commands": [
-        "./git/commit.md"
+        "./skills/git/"
     ]
 }
