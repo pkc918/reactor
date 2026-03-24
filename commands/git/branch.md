@@ -1,3 +1,9 @@
+---
+name: git-branch
+description: Manage branches and switching
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Branch
 
 Manage branches and switching.

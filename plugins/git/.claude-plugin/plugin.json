@@ -16,17 +16,17 @@
         "svn"
     ],
     "commands": [
-        "./commands/git/commit.md",
         "./commands/git/branch.md",
-        "./commands/git/rebase.md",
-        "./commands/git/stash.md",
-        "./commands/git/undo.md",
-        "./commands/git/log.md",
-        "./commands/git/tag.md",
-        "./commands/git/remote.md",
-        "./commands/git/conflict.md",
         "./commands/git/cherry-pick.md",
-        "./commands/git/clean.md"
+        "./commands/git/clean.md",
+        "./commands/git/commit.md",
+        "./commands/git/conflict.md",
+        "./commands/git/log.md",
+        "./commands/git/rebase.md",
+        "./commands/git/remote.md",
+        "./commands/git/stash.md",
+        "./commands/git/tag.md",
+        "./commands/git/undo.md"
     ],
     "skills": [
         "./skills/git/"

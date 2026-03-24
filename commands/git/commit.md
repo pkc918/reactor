@@ -1,3 +1,9 @@
+---
+name: git-commit
+description: Create a commit following Conventional Commits
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Commit
 
 Create a commit following Conventional Commits specification.

@@ -1,3 +1,9 @@
+---
+name: git-cherry-pick
+description: Apply specific commits from another branch
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Cherry-Pick
 
 Apply specific commits from another branch.

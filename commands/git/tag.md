@@ -1,3 +1,9 @@
+---
+name: git-tag
+description: Create and manage tags for releases
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Tag
 
 Create and manage tags for releases.

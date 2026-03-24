@@ -1,3 +1,9 @@
+---
+name: git-undo
+description: Undo changes at various stages
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Undo
 
 Undo changes at various stages.

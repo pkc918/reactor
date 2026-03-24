@@ -1,3 +1,9 @@
+---
+name: go-test
+description: Run Go tests with coverage, benchmarks, and fuzzing
+allowed-tools: Bash, Read, Grep
+---
+
 # Go Test
 
 Run Go tests with coverage, benchmarks, and fuzzing.

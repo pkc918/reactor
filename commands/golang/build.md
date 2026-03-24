@@ -1,3 +1,9 @@
+---
+name: go-build
+description: Build Go packages and binaries
+allowed-tools: Bash, Read, Grep
+---
+
 # Go Build
 
 Build Go packages and binaries.

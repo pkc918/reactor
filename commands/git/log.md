@@ -1,3 +1,9 @@
+---
+name: git-log
+description: View commit history and inspect changes
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Log
 
 View commit history and inspect changes.

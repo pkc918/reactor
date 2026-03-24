@@ -1,3 +1,9 @@
+---
+name: git-remote
+description: Manage remote repositories
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Remote
 
 Manage remote repositories.

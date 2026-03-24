@@ -1,3 +1,9 @@
+---
+name: git-rebase
+description: Rebase current branch onto another
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Rebase
 
 Rebase current branch onto another. Preferred over merge for keeping linear history.

@@ -1,3 +1,9 @@
+---
+name: git-clean
+description: Remove untracked files and optimize repository
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Clean
 
 Remove untracked files and optimize repository.

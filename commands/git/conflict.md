@@ -1,3 +1,9 @@
+---
+name: git-conflict
+description: Resolve merge or rebase conflicts
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Conflict Resolution
 
 Resolve merge or rebase conflicts.

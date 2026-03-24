@@ -1,3 +1,9 @@
+---
+name: git-stash
+description: Temporarily save uncommitted changes
+allowed-tools: Bash, Read, Grep
+---
+
 # Git Stash
 
 Temporarily save uncommitted changes.
