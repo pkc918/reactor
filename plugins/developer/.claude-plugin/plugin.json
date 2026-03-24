@@ -18,7 +18,7 @@
         "ui"
     ],
     "agents": [
-        "./agents/developer/"
+        "./agents/"
     ],
     "skills": [
         "./skills/"
