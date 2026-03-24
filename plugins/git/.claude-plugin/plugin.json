@@ -29,6 +29,6 @@
         "./commands/git-undo.md"
     ],
     "skills": [
-        "./skills/git/"
+        "./skills/"
     ]
 }
