@@ -17,8 +17,12 @@
         "designer",
         "ui"
     ],
-    "agents": "./agents/",
-    "skills": "./skills/",
+    "agents": [
+        "./agents/"
+    ],
+    "skills": [
+        "./skills/"
+    ],
     "hooks": "./config/hooks.json",
     "mcpServers": "./config/.mcp.json",
     "lspServers": "./config/.lsp.json"
