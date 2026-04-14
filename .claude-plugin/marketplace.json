@@ -10,12 +10,14 @@
         {
             "name": "git",
             "source": "./plugins/git",
-            "description": "A plugin for Git"
+            "description": "A plugin for Git",
+            "category": "tool"
         },
         {
             "name": "developer",
             "source": "./plugins/developer",
-            "description": "A plugin for Developer"
+            "description": "A plugin for Developer",
+            "category": "dev"
         }
     ]
 }
