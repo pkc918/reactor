@@ -1,16 +1,15 @@
 {
   "name": "reactor",
   "version": "0.0.1",
-  "description": "Reactor for AI coding agents — plugins, skills, and marketplace bits for Claude Code & friends. Like JARVIS: wire it in and your agent runs with real power.",
-  "scripts": {
-    "lint": "eslint",
-    "lint:fix": "eslint --fix .",
-    "gen:shadcn-vue": "tsx scripts/generate-shadcn-vue-references.ts"
-  },
+  "packageManager": "pnpm@10.30.3",
+  "description": "Reactor for AI coding agents — plugins, skills, and marketplace bits for Codex, Claude Code, and friends. Like JARVIS: wire it in and your agent runs with real power.",
+  "author": "https://github.com/pkc918",
+  "license": "Apache-2.0",
   "keywords": [
     "reactor",
     "ai",
     "agents",
+    "codex",
     "claude-code",
     "skills",
     "rules",
@@ -19,9 +18,11 @@
     "claude code",
     "best-practices"
   ],
-  "author": "https://github.com/pkc918",
-  "license": "Apache-2.0",
-  "packageManager": "pnpm@10.30.3",
+  "scripts": {
+    "lint": "eslint",
+    "lint:fix": "eslint --fix .",
+    "gen:shadcn-vue": "tsx scripts/generate-shadcn-vue-references.ts"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^7.7.3",
     "eslint": "^10.0.3",
