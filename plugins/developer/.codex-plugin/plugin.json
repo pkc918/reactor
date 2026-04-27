@@ -1,1 +1,24 @@
-../.claude-plugin/plugin.json
+{
+  "name": "developer",
+  "description": "A plugin for Developer",
+  "version": "0.0.1",
+  "author": {
+    "name": "青椒肉丝",
+    "url": "https://github.com/pkc918"
+  },
+  "homepage": "https://github.com/pkc918/reactor",
+  "repository": "https://github.com/pkc918/reactor",
+  "license": "MIT",
+  "keywords": [
+    "fullstack",
+    "frontend",
+    "backend",
+    "cr",
+    "designer",
+    "ui"
+  ],
+  "skills": "./skills/",
+  "hooks": "./config/hooks.json",
+  "mcpServers": "./config/.mcp.json",
+  "lspServers": "./config/.lsp.json"
+}
